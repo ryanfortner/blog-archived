@@ -18,7 +18,7 @@ linkedin_username: "linkedinuser"
 #########################################################################################
 ######### Nothing below needs to be changed (unless you know what you're doing) #########
 #########################################################################################
-remote_theme: pool/lanyon
+remote_theme: pages-themes/midnight@v0.2.0
 
 rss: rss
 
