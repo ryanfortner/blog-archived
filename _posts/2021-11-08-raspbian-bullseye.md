@@ -25,6 +25,6 @@ Many other changes have also been implemented, I won't go into complete detail r
 - Use of the Mutter window manager
 - Bug fixes, other tweaks not mentioned.
 
-Stay tuned for my full review on each of the new features coming soon!
+Stay tuned for more updates!
 
 ~Ryan
