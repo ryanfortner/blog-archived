@@ -7,10 +7,10 @@ You can read more about the project [here](https://github.com/raspbian-addons/ra
 Installation is simple. If you're interested, fire up a Pi, make sure you have a working Internet connection, and open a terminal window. Type the following command to begin installation.
 
 ```
-python3 <(curl -fSsL https://cdn.jsdelivr.net/gh/raspbian-addons/raspbian-addons@master/repo.py)
+python3 <(curl -fSsL https://cdn.jsdelivr.net/gh/raspbian-addons/scripts@master/utils/repo.py)
 ```
 
-The script will ask you which mirror you'd like to use. Pick the one that's closest to your location, as you'll get more reliable speeds. Once the repository is installed, you can now install software from it! Just run `sudo apt install <packagename>` (a full list of included packages can be found [here](https://osdn.mirror.constant.com/storage/g/r/ra/raspbian-addons/debian/pool/)).
+The script will ask you which mirror you'd like to use. Pick the one that's closest to your location, as you'll get more reliable speeds. Once the repository is installed, you can now install software from it! Just run `sudo apt install <packagename>` (a full list of included packages can be found [here](https://apt.raspbian-addons.org/debian/pool/)).
 
 Please note that at the time of writing, the repository is only compatible with Debian Buster.
 
