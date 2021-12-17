@@ -158,6 +158,8 @@ See the next method for more advanced apt repositories.
 
 `reprepro` is an easy-to-use tool for power users to create Debian repositories. Debian, Raspberry Pi, Raspbian Addons, and more use `reprepro` for their repositories. Here's how to set one up!
 
+For this method, you will also need a GPG key, follow the instructions from above to generate one. 
+
 ### 1. Create necessary folders and files
 
 First we'll create a directory on a remote server. You can use GitHub pages for this like the method above, but again, a simple http server will also do the trick. reprepro has many different configuration options, but I'll be showing a super simple example in this guide.
