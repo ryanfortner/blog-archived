@@ -19,7 +19,7 @@ Then, enter a secure passphrase for the key if desired.
 <details>
 <summary> Generating an ssh key on a legacy system </summary>
 
-`ssh-keygen -t rsa -b 4096 -C "your_email@example.com"`
+  <code>ssh-keygen -t rsa -b 4096 -C "your_email@example.com"</code>
 
 </details>
 
